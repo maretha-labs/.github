@@ -13,6 +13,7 @@ or a substitute for testing in your environment.
 
 | Project | What it demonstrates | Status |
 | --- | --- | --- |
+| [Maretha Angular Web UI](https://github.com/maretha-labs/maretha-angular-webui) | An Angular user interface for Nuxeo LTS 2025, installed as a Nuxeo package: a customization zone with a hash-locked core, an extension SDK, three verification modes and instructions for coding agents. | v1.0.0 for LTS 2025; hosting outside Nuxeo is experimental |
 | [Operations Portal](https://github.com/maretha-labs/ops-portal) | A team interface for uploads, deployments, rollbacks, audit activity and logs. Built with Claude Code for Maretha's lab. | Existing public example |
 | [Nuxeo upgrade assistant](https://github.com/maretha-labs/nuxeo-lts-2025-upgrade) | A Claude Code skill and references for LTS 2023 to 2025 project upgrades. | Skill and migration references; no version matrix certified |
 | [Maretha AI](https://github.com/maretha-labs/maretha-ai) | Nuxeo interactions, metadata enrichment and retrieval with Bedrock and Vertesia integration code. | Source example; read security and validation notes |
